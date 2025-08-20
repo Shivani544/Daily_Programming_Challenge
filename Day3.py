@@ -1,3 +1,4 @@
+# Problem : Find the Leaders in an Array
 def find_duplicate(arr):
     low = 1
     high = len(arr) - 1 
